@@ -1,43 +1,104 @@
-
-# 👋 Hi Coders!
-
-### My name is Haseeb Zafar, and I'm ...
-
->🧡 A Full Stack Software Developer.  
-💻 A Freelancer.  
-📚 Computer Science Student.
-
-## 📈 Github Stats
+# 🚀 Haseeb Zafar — Senior Full Stack Engineer
 
 <p align="center">
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=seeebbii&theme=tokyonight&hide_border=true&fire=C77800" />
-  
-<!--   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=seeebbii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&hide=html,dockerfile"/> -->
-  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Engineer;FinTech+%7C+Web3+%7C+Scalable+Systems;React+%7C+Next.js+%7C+NestJS+%7C+Flutter;Building+Products+Used+by+Millions" />
 </p>
 
-## 🛠 Tools and Tech
-![](https://img.shields.io/badge/Editor-VSCode-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=visualstudiocode)
-![](https://img.shields.io/badge/Code-Dart-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=dart)
-![](https://img.shields.io/badge/Code-Flutter-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=flutter)
-![](https://img.shields.io/badge/Code-JavaScript-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=javascript)
-![](https://img.shields.io/badge/Code-Typescript-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=typescript)
-![](https://img.shields.io/badge/Code-Express-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=express)
-![](https://img.shields.io/badge/Code-Python-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=python)
-![](https://img.shields.io/badge/Code-Java-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=java)
-![](https://img.shields.io/badge/Code-C%23-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=.net)
-![](https://img.shields.io/badge/Database-MongoDB-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=mongodb)
-![](https://img.shields.io/badge/Database-PostgreSQL-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=postgresql)
-![](https://img.shields.io/badge/Database-MySQL-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=mysql)
-![](https://img.shields.io/badge/Tools-Docker-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=docker)
-![](https://img.shields.io/badge/Cloud-AWS-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=amazonaws)
-![](https://img.shields.io/badge/Cloud-GCP-Informational?style=flat&logoColor=bf91f3&color=38bdae&labelColor=1a1b27&logo=googlecloud)
+<p align="center">
+  <a href="https://github.com/seeebbii"><img src="https://img.shields.io/github/followers/seeebbii?label=Followers&style=for-the-badge&color=38bdae"/></a>
+  <a href="https://linkedin.com/in/haseebzafardev"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdae?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:haseebzafar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-38bdae?style=for-the-badge&logo=gmail"/></a>
+</p>
 
-## 📌 Featured Projects
-<a href="https://github.com/seeebbii/input-flutter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=input-flutter"/></a>
-<a href="https://github.com/seeebbii/custom_mvp_camera"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=custom_mvp_camera"/></a>
-<a href="https://github.com/seeebbii/covid_tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=covid_tracker"/></a>
-<a href="https://github.com/seeebbii/Input-apis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seeebbii&theme=tokyonight&hide_border=true&repo=Input-apis"/></a>
+---
 
-<hr>
-<img height="400px" src="https://raw.githubusercontent.com/seeebbii/snk/output/github-contribution-grid-snake.svg" ></img>
+## 🧠 About Me
+
+```ts
+const haseeb = {
+  role: "Senior Full Stack Engineer",
+  experience: "6+ years",
+  domains: ["FinTech", "Web3", "SaaS", "Mobile", "Cloud"],
+  currentFocus: [
+    "Scalable system architecture",
+    "High-performance APIs",
+    "Modern full-stack applications"
+  ],
+  mindset: "Product-first, performance-obsessed, security-aware"
+};
+```
+
+I’m a **Senior Full Stack Engineer** with **6+ years of experience** building **production-grade systems** across **web, mobile, backend, and cloud**.
+
+---
+
+## 🧩 Tech Stack (Full Stack Focus)
+
+### 🖥 Frontend
+- React.js, Next.js, Angular
+- TypeScript, JavaScript
+- TailwindCSS
+
+### ⚙ Backend
+- Node.js, NestJS
+- Express, Fastify
+- REST APIs, GraphQL
+
+### 📱 Mobile
+- Flutter, Dart
+- Firebase
+
+### ☁ Cloud & DevOps
+- AWS, GCP
+- Docker, Kubernetes
+- CI/CD Pipelines
+
+### 🗄 Databases
+- PostgreSQL, MongoDB
+- MySQL, Firestore
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=seeebbii&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=seeebbii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
+
+---
+
+## 🚀 Flagship Projects
+
+### 🎧 PodcastDB
+- 2.6M+ podcasts indexed
+- Advanced search & analytics
+- SaaS platform for marketers
+
+🔗 https://podcastdb.io
+
+### 💰 MSquare Market
+- FinTech & Web3 platform
+- Digital asset wallets
+- Web + Mobile ecosystem
+
+🔗 https://msq.market
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seeebbii/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+📩 **Email:** haseebzafar.dev@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/haseebzafardev  
+🐙 **GitHub:** https://github.com/seeebbii
