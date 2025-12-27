@@ -35,33 +35,53 @@ I’m a **Senior Full Stack Engineer** with **6+ years of experience** building 
 ## 🧩 Tech Stack (Full Stack Focus)
 
 ### 🖥 Frontend
-- React.js, Next.js, Angular
-- TypeScript, JavaScript
-- TailwindCSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDAE?style=for-the-badge&logo=tailwindcss)
+
+---
 
 ### ⚙ Backend
-- Node.js, NestJS
-- Express, Fastify
-- REST APIs, GraphQL
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+---
 
 ### 📱 Mobile
-- Flutter, Dart
-- Firebase
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
 
 ### ☁ Cloud & DevOps
-- AWS, GCP
-- Docker, Kubernetes
-- CI/CD Pipelines
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
+
+---
 
 ### 🗄 Databases
-- PostgreSQL, MongoDB
-- MySQL, Firestore
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seeebbii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=seeebbii&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeebbii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seeebbii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seeebbii&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeebbii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </p>
 
 ---
 
