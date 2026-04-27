@@ -160,6 +160,8 @@ A Flutter app paired with a native Android service that periodically samples the
 
 `Flutter` `Java` `Android Native` `On-device ML`
 
+🔗 **[Play Store](https://play.google.com/store/apps/details?id=com.geeklone.quitmust&hl=en)**
+
 ---
 
 <details>
