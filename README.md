@@ -32,7 +32,7 @@ const haseeb = {
   experience:   "6+ years in production",
   currentlyAt:  "Must — South Korea (remote)",
   domains:      ["FinTech", "Web3", "SaaS", "Mobile", "Cloud"],
-  shipped:      "8+ products across iOS, Android & Web",
+  shipped:      "24+ products across iOS, Android, Web & Desktop",
   focus: [
     "Scalable system architecture",
     "Monolith → Microservices migrations",
@@ -63,7 +63,7 @@ const haseeb = {
 </tr>
 <tr>
   <td align="center"><h3>2.6M+</h3>podcasts indexed<br/><sub>PodcastDB SaaS platform</sub></td>
-  <td align="center"><h3>8+</h3>products shipped<br/><sub>across iOS, Android & Web</sub></td>
+  <td align="center"><h3>24+</h3>products shipped<br/><sub>across iOS, Android, Web & Desktop</sub></td>
   <td align="center"><h3>5</h3>countries<br/><sub>remote teams across PK, IQ, BH, KR</sub></td>
 </tr>
 </table>
@@ -160,7 +160,7 @@ A Flutter app paired with a native Android service that periodically samples the
 
 `Flutter` `Java` `Android Native` `On-device ML`
 
-🔗 **[Play Store](https://play.google.com/store/apps/details?id=com.geeklone.quitmust&hl=en)**
+🔗 **[QuitMust](https://play.google.com/store/apps/details?id=com.geeklone.quitmust&hl=en)** · **[QuitMust Pro](https://play.google.com/store/apps/details?id=com.geeklone.quitmustpro)**
 
 ---
 
@@ -170,12 +170,77 @@ A Flutter app paired with a native Android service that periodically samples the
 <br/>
 
 **Ekri — The Writers' Room** *· 2022* — A collaborative storytelling platform where writers co-author drafts, hand stories off, and discover diverse voices in a shared library. `Flutter` `Realtime`
+🔗 [App Store](https://apps.apple.com/bh/app/ekri-the-writers-room/id1516137296)
 
 **Letter Bird** *· 2021–22* — A modern way to send letters: handpicked papers, fonts, envelopes, and stamps. A small, deliberate creative artifact. `Flutter` `Animations`
+🔗 [letterbird.app](https://letterbird.app/) · [Play Store](https://play.google.com/store/apps/details?id=com.letterbird.prod) · [App Store](https://apps.apple.com/tr/app/letterbird-digital-letters/id1636700830)
 
 **Tapn.** *· 2022* — A social platform for trending-topic conversations — one tap into the discussion, no scrolling. Bookmark, share, and weigh in globally. `Flutter` `Social`
+🔗 [App Store](https://apps.apple.com/bh/app/tapn/id1639395858)
 
 </details>
+
+---
+
+## 📱 The longer list — more apps shipped
+
+A wider catalog of production apps I've contributed to across **Pakistan, Iraq, Bahrain, and South Korea** — at CodeMiners, Geeklone, Fusteka, Ryalize, and Must.
+
+<table>
+<tr>
+  <td valign="top" width="33%">
+
+  ### 🏦 FinTech & Banking <sub>(Ryalize era)</sub>
+  - **[Sulfeh o Rateb](https://apps.apple.com/bh/app/sulfeh-o-rateb/id6444640566)** — Bahrain salary-advance & EWA platform.
+  - **KHCB Ratbi** — Salary mgmt for Khaleeji Commercial Bank Bahrain.
+    [iOS](https://apps.apple.com/bh/app/khcb-ratbi/id1618466760) · [Android](https://play.google.com/store/apps/details?id=com.ryalize.khcbratbi&hl=en)
+  - **[CBOJ Ratbi](https://play.google.com/store/apps/details?id=com.ryalize.cboj&hl=en)** — Banking salary platform (Android).
+
+  </td>
+  <td valign="top" width="33%">
+
+  ### 🇰🇷 Korea (Must · backend)
+  - **[사색의향기 — 소소담담](https://apps.apple.com/kr/app/%EC%82%AC%EC%83%89%EC%9D%98%ED%96%A5%EA%B8%B0-%EC%86%8C%EC%86%8C%EB%8B%B4%EB%8B%B4/id6747575743)** — Korean lifestyle/community app — backend systems engineered.
+
+  ### 🔐 Security
+  - **[SSExch Authenticator](https://play.google.com/store/apps/details?id=com.ssexch.authenticator)** — 2FA / TOTP authenticator.
+
+  </td>
+  <td valign="top" width="33%">
+
+  ### 🛒 E-commerce <sub>(Iraq · Fusteka era)</sub>
+  - **[Shopini Express](https://play.google.com/store/apps/details?id=com.shopiniexpress)** — Express delivery e-commerce.
+  - **[Shopini Seller](https://play.google.com/store/apps/details?id=com.shopini.shopinisellerapplication)** — Vendor companion app.
+  - **[BRB Ene](https://play.google.com/store/apps/details?id=com.brbene.restaurant.iraq)** — Restaurant ordering & delivery (Iraq).
+  - **[Ahjili](https://play.google.com/store/apps/details?id=com.ahjili.iraq)** — Booking & reservation (Iraq).
+
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+
+  ### 🏷 Reservation & Lifestyle
+  - **[Reservim](https://play.google.com/store/apps/details?id=com.reservim)** — Restaurant & venue reservations.
+  - **[Aur Pets](https://play.google.com/store/apps/details?id=com.aur.pets.aur_pets)** — Pet care & community.
+  - **[Yellow Meditation](https://play.google.com/store/apps/details?id=com.meditation.yellow)** — Guided meditation & mindfulness.
+
+  </td>
+  <td valign="top">
+
+  ### 🎨 Creative & Misc <sub>(Geeklone era)</sub>
+  - **[Toon Clicks](https://play.google.com/store/apps/details?id=com.geeklone.toonclicks)** — Cartoon-effect photo editing.
+  - **[SatyaCars Bid](https://apkgk.com/com.codeminers.satyacarsbid)** — Live car-bidding (CodeMiners).
+
+  </td>
+  <td valign="top">
+
+  ### 🖥 Desktop & Web
+  - **Meemus POS** — Flutter desktop point-of-sale for [Meemus](https://www.instagram.com/meemuspk/) (PK retail).
+  - **[Input Web](https://seeebbii.github.io/input-web/)** — Form-input UX experiment.
+
+  </td>
+</tr>
+</table>
 
 ---
 
